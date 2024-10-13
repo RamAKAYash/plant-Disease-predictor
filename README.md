@@ -1,2 +1,5 @@
-# plantd-Disease-predictor
+#plant-disease
+#python
+#plant
+# plant-Disease-predictor
 demo bro
